@@ -1,0 +1,8 @@
+streamlit
+groq
+requests
+pandas
+numpy
+fpdf2
+openpyxl
+python-dotenv
